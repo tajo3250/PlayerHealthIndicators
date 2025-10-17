@@ -6,7 +6,8 @@
   "name": "PlayerHealthIndicators",
   "description": "Displays a health bar above players",
   "authors": [
-    "Gaider10"
+    "Gaider10",
+    "Dr Sero"
   ],
 
   "license": "MIT",
